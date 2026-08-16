@@ -1,0 +1,22 @@
+# Environment / secrets
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Whisper model files (large binaries, downloaded separately)
+whisper-model-base/
+*.bin
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Temp audio files
+*.mp3
