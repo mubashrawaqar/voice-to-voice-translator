@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/8a020777-36bf-4a11-a041-09d5de372849
+
 # 🎙️ Voice-to-Voice Translator
 
 Speak in one language, hear it translated in another. A three-stage speech
@@ -9,7 +11,7 @@ if the primary TTS engine is rate-limited.
 ## 🚀 Live Demo
 
 **[Try it here](https://huggingface.co/spaces/mubashrawaqar123/voice-to-voice-translator)**
-![Demo](https://github.com/user-attachments/assets/8a020777-36bf-4a11-a041-09d5de372849)
+
 
 ## 🧠 How it works
 
@@ -18,8 +20,6 @@ if the primary TTS engine is rate-limited.
    (the `base` model, run on CPU with int8 quantization to stay lightweight
    enough for free-tier hosting).
 2. **Translation** 
-
-https://github.com/user-attachments/assets/8a020777-36bf-4a11-a041-09d5de372849
 
 — the transcript is translated into the selected target
    language via Google Translate (`deep-translator`).
