@@ -20,10 +20,6 @@ if the primary TTS engine is rate-limited.
 
 https://github.com/user-attachments/assets/8a020777-36bf-4a11-a041-09d5de372849
 
-
-
-https://github.com/user-attachments/assets/da305ea9-4423-4109-8489-e090bcc82976
-
 — the transcript is translated into the selected target
    language via Google Translate (`deep-translator`).
 3. **Speech synthesis** — the translated text is converted back to speech
