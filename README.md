@@ -8,7 +8,8 @@ if the primary TTS engine is rate-limited.
 
 ## 🚀 Live Demo
 
-**[Try it here](PASTE_YOUR_LIVE_LINK_HERE)**
+**[Try it here](https://huggingface.co/spaces/mubashrawaqar123/voice-to-voice-translator)**
+![Demo](https://github.com/user-attachments/assets/8a020777-36bf-4a11-a041-09d5de372849)
 
 ## 🧠 How it works
 
