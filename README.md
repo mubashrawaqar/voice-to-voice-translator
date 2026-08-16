@@ -16,7 +16,15 @@ if the primary TTS engine is rate-limited.
    locally using [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
    (the `base` model, run on CPU with int8 quantization to stay lightweight
    enough for free-tier hosting).
-2. **Translation** — the transcript is translated into the selected target
+2. **Translation** 
+
+https://github.com/user-attachments/assets/8a020777-36bf-4a11-a041-09d5de372849
+
+
+
+https://github.com/user-attachments/assets/da305ea9-4423-4109-8489-e090bcc82976
+
+— the transcript is translated into the selected target
    language via Google Translate (`deep-translator`).
 3. **Speech synthesis** — the translated text is converted back to speech
    using gTTS. If gTTS fails (rate limiting, network issues), the app
